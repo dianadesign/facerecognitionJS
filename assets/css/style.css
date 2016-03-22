@@ -1,0 +1,16 @@
+.container,  .btns{
+	margin-top: 20px;
+}
+video, canvas {
+	position: absolute;
+	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
+}
+.videos {
+	height: 300px;
+}
+.videos div {
+	height: 100%;
+}
